@@ -1,0 +1,21 @@
+{
+  "name": "fem-sunnyside-landing-page",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "scripts": {
+    "watch:sass": "sass --watch src/scss/main.scss:src/css/main.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devbybruno/fem-sunnyside-landing-page.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/devbybruno/fem-sunnyside-landing-page/issues"
+  },
+  "homepage": "https://github.com/devbybruno/fem-sunnyside-landing-page#readme"
+}
