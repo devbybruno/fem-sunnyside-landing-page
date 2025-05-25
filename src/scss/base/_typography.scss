@@ -1,0 +1,7 @@
+@use "../abstracts/abstracts" as abs;
+
+body {
+  font-family: abs.$ff-main;
+  font-weight: abs.$fw-medium;
+  line-height: 1.5;
+}
